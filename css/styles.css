@@ -1,0 +1,25 @@
+.unstyled {
+
+
+}
+p {
+  color: blue;
+}
+
+li {
+color: red;
+font-size: 25px;
+
+}
+
+.blue {
+  background-color: blue;
+}
+ul #foods {
+  display:none;
+
+}
+
+.invis {
+  display:none;
+}
